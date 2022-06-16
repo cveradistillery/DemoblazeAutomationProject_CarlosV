@@ -97,7 +97,7 @@ N/A A2
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
-# MIT licence
+ MIT licence
 
 Copyright (c) 2022 Carlos Vera
 
