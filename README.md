@@ -2,7 +2,7 @@
 # Demoblaze Automation Project - Carlos V. - QA Automation Engineer
 Support DemoBlaze code challenge by using Cypress
 
-## To clone this repository:
+## To clone this repository
 Open your console/terminal and run this:
 ```sh
 cd </your/desired/project/path/>
@@ -12,7 +12,7 @@ cd </your/desired/project/path/>
 git clone https://github.com/cveradistillery/DemoblazeAutomationProject_CarlosV.git
 ```
 
-## Installation:
+## Installation
 
 ```console
 cd <parentFolder>
@@ -24,7 +24,7 @@ _Desirable_:
     * e.g. you can use Chrome, Safari, Firefox, Edge, Chromium, Opera, etc
 
 
-## Quick Run:
+## Quick Run
 - Headless mode (with video recording of the execution):
   *  Run this:
 ```console
@@ -39,7 +39,7 @@ _Desirable_:
   * Additional Comment:
     *  If you have the latest Cypress version installed you need to choose E2E Testing + desired browser + Start E2E Testing in <browser>  and just click in the desired <fileTestName>.spec.cy.js test file to run the ATCs
 
-## Report:
+## Report
 - Any failure you will see the correspondent screenshot / Report:
     * ![alt text](https://i.ibb.co/68dxkxj/image.png) 
 
@@ -47,7 +47,7 @@ _Desirable_:
 - [![Watch the video](https://i.imgur.com/RfiDUsT.png)](https://www.veed.io/view/8a57c438-1ff2-4f53-98a3-6f693f8c0fc5)
 
 
-## Main Paths:
+## Main Paths
 
 - /cypress.config.js: contains the two valid urls of the site https://api.demoblaze.com/ & https://www.demoblaze.com/
 - /cypress/e2e/0-integration/demoblaze_spec.cy.js: Valid ATCs / flow (signup, login, product store, cart, place order / purchase)
@@ -61,8 +61,9 @@ _Desirable_:
 
 - [Demo Link](https://www.veed.io/view/8a57c438-1ff2-4f53-98a3-6f693f8c0fc5)
 
-## Full documentation - Main Library documentation:
+## Full documentation - Main Library documentation
 - https://www.cypress.io/
+
 ## Appendix
 
 N/A
@@ -96,7 +97,7 @@ N/A A2
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
-## MIT licence:[![](https://i.ibb.co/2kHmnLX/image.png)](#MIT)
+# MIT licence
 
 Copyright (c) 2022 Carlos Vera
 
